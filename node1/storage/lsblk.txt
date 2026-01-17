@@ -1,0 +1,9 @@
+NAME                   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda                      8:0    0  100G  0 disk 
+├─sda1                   8:1    0    1G  0 part /boot
+├─sda2                   8:2    0    4G  0 part [SWAP]
+└─sda3                   8:3    0   95G  0 part 
+  └─cs_bogon-root      253:0    0   95G  0 lvm  /
+sr0                     11:0    1 1024M  0 rom  
+nvme0n1                259:0    0   50G  0 disk 
+└─vg_zzyl-lv_zzyl_logs 253:1    0   50G  0 lvm  /mnt/zzyl_logs

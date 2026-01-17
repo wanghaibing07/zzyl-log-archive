@@ -1,0 +1,2 @@
+Filesystem                       Type  Size  Used Avail Use% Mounted on
+/dev/mapper/vg_zzyl-lv_zzyl_logs xfs    50G  390M   50G   1% /mnt/zzyl_logs

@@ -1,0 +1,2 @@
+0 1 * * * /usr/bin/flock -n /var/lock/zzyl_log_sync.lock /usr/local/sbin/zzyl_log_sync.sh >> /var/log/zzyl_log_sync.log 2>&1
+
